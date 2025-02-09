@@ -1,3 +1,2 @@
 # Continuous-Quality
-Integration of GxP quality mangement in Continuous Delivery
- asdff asdfas dasdf asdf
+Playground for experimenting with BDD in a regulated environment
