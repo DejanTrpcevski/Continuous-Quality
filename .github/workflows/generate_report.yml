@@ -22,7 +22,7 @@ jobs:
       run: python automation/generate_report.py
 
     - name: Upload PDF Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: commit-report
         path: docs/commit_report.pdf
