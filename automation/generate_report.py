@@ -13,7 +13,7 @@ commit_data = {
 }
 
 # Load the markdown template
-with open("docs/report_template.md", "r") as file:
+with open("docs/commit_report.md", "r") as file:
     template = jinja2.Template(file.read())
 
 # Render markdown
